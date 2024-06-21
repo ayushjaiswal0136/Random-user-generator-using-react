@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Random-user-generator-using-react/static/css/main.308362fe.css",
+    "main.js": "/Random-user-generator-using-react/static/js/main.f81ff5ce.js",
+    "index.html": "/Random-user-generator-using-react/index.html",
+    "main.308362fe.css.map": "/Random-user-generator-using-react/static/css/main.308362fe.css.map",
+    "main.f81ff5ce.js.map": "/Random-user-generator-using-react/static/js/main.f81ff5ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308362fe.css",
+    "static/js/main.f81ff5ce.js"
+  ]
+}
